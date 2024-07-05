@@ -1,8 +1,8 @@
 
-# Python3 Drawing Algorithms
+# Drawing Algorithms
 
 ## Overview
-This repository contains two projects that use Python's `turtle` module to create graphical representations of colorful patterns. These projects were developed as solutions to competition tasks in the field of Computer Science for Polish children.
+This repository contains projects that use Python's `turtle` module to create graphical representations of colorful patterns. These projects were developed as solutions to competition tasks in the field of Computer Science for Polish children.
 
 ## Projects
 1. **Dywan i Żółw (Carpet and Turtle)**
